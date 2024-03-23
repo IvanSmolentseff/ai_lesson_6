@@ -3,7 +3,7 @@ import openai
 
 # Установка токенов и ключей
 TELEGRAM_TOKEN = "6916982472:AAHqstufUf20XEyR5G79DlZHlo8AgYmNd1U"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "sk-ywhHY51tVhkZGWF5p1ErT3BlbkFJJfpuPO7yHGckcoqk____"  # Если нужно проверить в работе вышлю полный api_key
 
 # Настройка OpenAI API
 openai.api_key = OPENAI_API_KEY
